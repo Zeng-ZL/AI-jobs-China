@@ -43,7 +43,6 @@ AI暴露度评分方法论参考：[Andrej Karpathy](https://karpathy.ai/jobs/) 
 ## 本地运行
 
 ```bash
-cd site/ai-jobs
 python3 -m http.server 8080
 # 访问 http://localhost:8080
 ```
